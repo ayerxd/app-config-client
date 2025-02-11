@@ -1,4 +1,4 @@
-package idat.pe.app_cloud_client;
+package pe.edu.idat.app_cloud_client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
